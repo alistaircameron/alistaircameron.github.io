@@ -25,16 +25,16 @@ In brief, we explore Shari’ah compliant, profit-loss-sharing microfinance cont
 
 <br><br>
 ## Current work:
-<em>On the Origins of Misogyny.</em> Cameron, Gangadaran, Maitra and Santos.
+<em>On the Origins of Misogyny.</em> (Submitted) Cameron, Gangadaran, Maitra and Santos.
 
-We gather a large dataset of potential, exogenous historical determinants of contemporary misogyny (preference for gender equality) and use machine learning techniques to identify those which best explain misogyny. Once these are identified, we explain why these are the most important. Working paper available on request, really, ask, we'd love feedback.
+We gather a large dataset of potential, exogenous historical determinants of contemporary misogyny (preference for gender equality) and use machine learning techniques to identify those which best explain misogyny. Once these are identified, we explain why these are the most important. WP available on request.
 
 <br>
 <em>Inequality Aversion & Crowding Out.</em> Cameron, Gangadaran, Maitra, Santos & Joe Vecci 	
 
-We conducted a large, cross country online experiment in September through December 2022. Within treatments, we varied inequality levels between subjects. Across treatments we varied the way experimental income was redistributed between the rich and poor. Then, in an extended dictator game, we find no crowding out of either pro- or anti- social payments between subjects, irrespective of country, or of redistribution policy. Structural estimates show inequality aversion does not differ between treatments, likely explaining why we see no crowding out. Working paper available on request
+We conducted a large, cross country online experiment in September through December 2022. Within treatments, we varied inequality levels between subjects. Across treatments we varied the way experimental income was redistributed between the rich and poor. Then, in an extended dictator game, we find no crowding out of either pro- or anti- social payments between subjects, irrespective of country, or of redistribution policy. Structural estimates show inequality aversion does not differ between treatments, likely explaining why we see no crowding out. WP available on request.
 
 <br>
-<em>Risk Preferences across the Lifecycle.</em> Romain Viry, Daivd Smerdon and Pushkar Maitra. 
+<em>Risk Preferences: A Time-Space Odyssey.</em> Romain Viry, Daivd Smerdon and Pushkar Maitra. 
 
-We create a new, more granular measure of risk based on opening moves players make in chess games. We use millions of games across decades and numerous countries. Using FIDE identifiers, we track individual players across their careers and control for ability. We map risk preferences across the lifecycle, across time and across space.
+Risk preferences decline gently until people reach around 50, they then stabilise, before declining again somewhat when individuals hit sixty plus. We create a new, more granular measure of risk based on opening moves players make in chess games. We use millions of games across decades and numerous countries. Using FIDE identifiers, we track individual players across their careers and control for ability. We map risk preferences across the lifecycle, across time and across space.
