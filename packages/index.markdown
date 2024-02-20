@@ -6,7 +6,7 @@ title: ac - packages
 <br><br>
 <span style = "font-family: Courier New">creeps. \\
 \\
-Econ and academia more generally is known to be a place where sexual misconduct goes unpunished. My hope is that creeps, a package still very much in beta, is a small contribution to combatting this trend. It allows latex-users to quickly identify authors in their .bib files who have been sanctioned for sexual misconduct by their institution.\\
+Econ and academia more generally is known to be a place where sexual misconduct goes unpunished. `creeps` is a small contribution to combatting this trend. It allows latex users to quickly and easily identify authors in their .bib files who have been sanctioned for sexual misconduct by their institution. To do so, it matches you .bib file entries to the [ASMD database](https://academic-sexual-misconduct-database.org) (and so currently only picks up US institutions).\\
 <br><br>
 
 tldr; here's a [minimum working example](https://www.overleaf.com/project/65916a0c9f98ad02ee07be00).\\
